@@ -13,13 +13,13 @@
 
 ## 🔐 Best Blockchain Project Using Hedera
 
-We are using **Hedera’s testnet** to make a <What are we using it for>. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
+We are using **Hedera’s testnet** to make a < What are we using it for >. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
 
-## 🔐 Best Use of DeSo
+## 🔗 Best Use of DeSo
 
-We are using **DeSo** to make a <What are we using it for>. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
+We are using **DeSo** to make a < What are we using it for >. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
 
-## 🤼 Most Creative Use of GitHub
+## 🤝 Most Creative Use of GitHub
 
 We are using GitHub for the following reasons:
 
