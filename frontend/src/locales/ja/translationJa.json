@@ -1,0 +1,18 @@
+{
+  "langName": "English",
+  "logo": "APP NAME",
+
+  "navLinkHome": "Home",
+  "navChangeLang": "Change Language",
+  "navLinkLogout": "Logout",
+
+  "homeTitle": "Who we are",
+  "hoemAbout": "Abour APP",
+  "homwWhatElse": "What else do we have",
+  "homeDesc": "APP NAME is a web app where you can:",
+  "homePt1": "A descentalized chatroom using Hedera",
+  "homePt2": "食品を菜食主義者または非菜食主義者として分類する",
+  "homePt3": "メニューをアップロードし,そこから情報を抽出します",
+  "homePt4": "メニューから抽出したテキストを音声に変換",
+  "homePt5": "食材やカロリーなど,食品に関する栄養情報を取得する"
+}

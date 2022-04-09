@@ -1,0 +1,18 @@
+{
+  "langName": "English",
+  "logo": "APP NAME",
+
+  "navLinkHome": "Home",
+  "navChangeLang": "Change Language",
+  "navLinkLogout": "Logout",
+
+  "homeTitle": "Who we are",
+  "hoemAbout": "Abour APP",
+  "homwWhatElse": "What else do we have",
+  "homeDesc": "APP NAME is a web app where you can:",
+  "homePt1": "A descentalized chatroom using Hedera",
+  "homePt2": "",
+  "homePt3": "",
+  "homePt4": "",
+  "homePt5": ""
+}
