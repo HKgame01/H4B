@@ -3,9 +3,9 @@
 ## Some project ideas
 
 - Code snipets to NFTs
-- An nft marketplace maybe using DeSo??
+- An nft marketplace maybe using DeSo
 - A Decentralized Web Hosting System
-- Blockchain-Based Voting System
+- - [x] Blockchain-Based Voting System
 
 ## 💡 Inspiration
 
@@ -17,7 +17,7 @@ We are using **Hedera’s testnet** to make a < What are we using it for >. Hede
 
 ## 🔗 Best Use of DeSo
 
-We are using **DeSo** to make a < What are we using it for >. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
+We are using **DeSo** to make user authentication. DeSo is the first Layer 1 blockchain custom-built for decentralized social media applications.
 
 ## 🤝 Most Creative Use of GitHub
 
