@@ -1,0 +1,20 @@
+{
+  "langName": "English",
+  "logo": "Cure Disease",
+
+  "navLinkHome": "Home",
+  "navLinkDoctors": "Doctors",
+  "navLinkChatroom": "Chatroom",
+  "navChangeLang": "Change Language",
+  "navLinkLogout": "Logout",
+
+  "homeTitle": "Who we are",
+  "hoemAbout": "Abour APP",
+  "homwWhatElse": "What else do we have",
+  "homeDesc": "Cure Disease is a web app where you can:",
+  "homePt1": "Locate nearest hospitals to you",
+  "homePt2": "Book an appointment with a doctor",
+  "homePt3": "List different diseases and their symptoms",
+  "homePt4": "Chat anonymously with doctors with reveling your identity",
+  "homePt5": "A smart chatbot that will help you find the best doctor for you "
+}

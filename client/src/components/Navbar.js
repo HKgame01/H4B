@@ -65,6 +65,14 @@ export default function Navbar() {
                                             <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">{t('navLinkHome')}</span>
                                         </Link>
 
+                                        <Link to="/doctors">
+                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">{t('navLinkDoctors')}</span>
+                                        </Link>
+
+                                        <Link to="/chatroom">
+                                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">{t('navLinkChatroom')}</span>
+                                        </Link>
+
                                         <button className='bg-blue-600 text-white py-2 px-8 rounded-md ml-2' onClick={() => handleAuth(4, false)}>
                                             Logout
                                         </button>
@@ -84,6 +92,14 @@ export default function Navbar() {
 
                         <Link to="/">
                             <span className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">{t('navLinkHome')}</span>
+                        </Link>
+
+                        <Link to="/doctors">
+                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">{t('navLinkDoctors')}</span>
+                        </Link>
+
+                        <Link to="/chatroom">
+                            <span className="lg:inline-flex px-3 mx-3 py-2 rounded items-center justify-center dark:hover:bg-navHover hover:bg-secondary cursor-pointer text-white">{t('navLinkChatroom')}</span>
                         </Link>
 
                         <Menu as="div" className="relative inline-block text-left">
@@ -138,7 +154,7 @@ export default function Navbar() {
                         </Menu>
 
                         <button className='bg-[#6F5DE0] text-white py-2 px-8 rounded-md' onClick={() => handleAuth(4, false)}>
-                        {t('navLinkLogout')}
+                            {t('navLinkLogout')}
                         </button>
 
                     </div>

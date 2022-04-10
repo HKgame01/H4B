@@ -1,19 +1,20 @@
-# APP NAME
-
-## Some project ideas
-
-- Code snipets to NFTs
-- An nft marketplace maybe using DeSo
-- A Decentralized Web Hosting System
-- - [x] Blockchain-Based Voting System
+# Cure Disease
 
 ## 💡 Inspiration
 
 ## 💻 What it does
 
+Cure Disease is aweb application that allows you to:
+
+- Locate nearest hospitals to you
+- Book an appointment with a doctor
+- List different diseases and their symptoms
+- Chat anonymously with doctors with reveling your identity
+- A smart chatbot that will help you find the best doctor for you
+
 ## 🔐 Best Blockchain Project Using Hedera
 
-We are using **Hedera’s testnet** to make a < What are we using it for >. Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
+We are using **Hedera’s testnet** to make a make a decentralized chatroom for patients and doctors, so that they can chat analmously and chat freely . Hedera is a decentralized public network that utilizes the Hashgraph consensus algorithm to overcome the traditional limitations of blockchain and allow one to create the next era of fast, fair, and secure applications.
 
 ## 🔗 Best Use of DeSo
 

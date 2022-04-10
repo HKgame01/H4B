@@ -1,6 +1,6 @@
 {
   "langName": "English",
-  "logo": "APP NAME",
+  "logo": "Cure Disease",
 
   "navLinkHome": "Home",
   "navChangeLang": "Change Language",
@@ -9,7 +9,7 @@
   "homeTitle": "Who we are",
   "hoemAbout": "Abour APP",
   "homwWhatElse": "What else do we have",
-  "homeDesc": "APP NAME is a web app where you can:",
+  "homeDesc": "Cure Disease is a web app where you can:",
   "homePt1": "A descentalized chatroom using Hedera",
   "homePt2": "食品を菜食主義者または非菜食主義者として分類する",
   "homePt3": "メニューをアップロードし,そこから情報を抽出します",
