@@ -2,6 +2,8 @@
 
 ## 💡 Inspiration
 
+We got inspired from the research we did for the project and found that there was no good website with curing diseases, connecting patients and doctors, with decentralised chat to communicate with the doctors. We decided to go for this project.
+
 ## 💻 What it does
 
 Cure Disease is aweb application that allows you to:
