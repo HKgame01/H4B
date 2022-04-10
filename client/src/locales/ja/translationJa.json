@@ -1,18 +1,20 @@
 {
-  "langName": "English",
-  "logo": "Cure Disease",
+  "langName": "英語", 
+  "ロゴ": "Uhealth +", 
 
-  "navLinkHome": "Home",
-  "navChangeLang": "Change Language",
-  "navLinkLogout": "Logout",
+  "navLinkHome": "ホーム", 
+  "navLinkDoctors": "Doctors", 
+  "navLinkChatroom": "チャットルーム", 
+  "navChangeLang": "言語の変更", 
+  "navLinkLogout": "ログアウト", 
 
-  "homeTitle": "Who we are",
-  "hoemAbout": "Abour APP",
-  "homwWhatElse": "What else do we have",
-  "homeDesc": "Cure Disease is a web app where you can:",
-  "homePt1": "A descentalized chatroom using Hedera",
-  "homePt2": "食品を菜食主義者または非菜食主義者として分類する",
-  "homePt3": "メニューをアップロードし,そこから情報を抽出します",
-  "homePt4": "メニューから抽出したテキストを音声に変換",
-  "homePt5": "食材やカロリーなど,食品に関する栄養情報を取得する"
+  "homeTitle": "私たちは誰ですか", 
+  "hoemAbout": "このプロジェクトで行った調査からインスピレーションを得て, 病気を治し, 患者と医師をつなぎ, 医師とコミュニケーションをとるための分散型チャットを備えた優れたWebサイトがないことがわかりました。このプロジェクトに参加することにしました。 ", 
+  "homwWhatElse": "他に何がありますか", 
+  "homeDesc": "Uhealth +は, 次のことができるWebアプリです:", 
+  "homePt1": "最寄りの病院を探す", 
+  "homePt2": "医師との約束を予約する", 
+  "homePt3": "さまざまな病気とその症状を一覧表示する", 
+  "homePt4": "あなたのアイデンティティを大いに楽しんでいる医師と匿名でチャットする", 
+  "homePt5":"あなたに最適な医師を見つけるのに役立つスマートチャットボット"
 }

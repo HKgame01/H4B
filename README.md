@@ -1,4 +1,4 @@
-# Cure Disease
+# Uhealth+
 
 ## 💡 Inspiration
 
@@ -6,7 +6,7 @@ We got inspired from the research we did for the project and found that there wa
 
 ## 💻 What it does
 
-Cure Disease is aweb application that allows you to:
+Uhealth+ is aweb application that allows you to:
 
 - Locate nearest hospitals to you
 - Book an appointment with a doctor

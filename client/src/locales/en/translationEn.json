@@ -1,6 +1,6 @@
 {
   "langName": "English",
-  "logo": "Cure Disease",
+  "logo": "Uhealth+",
 
   "navLinkHome": "Home",
   "navLinkDoctors": "Doctors",
@@ -9,9 +9,9 @@
   "navLinkLogout": "Logout",
 
   "homeTitle": "Who we are",
-  "hoemAbout": "Abour APP",
+  "hoemAbout": "We got inspired from the research we did for the project and found that there was no good website with curing diseases, connecting patients and doctors, with decentralised chat to communicate with the doctors. We decided to go for this project.",
   "homwWhatElse": "What else do we have",
-  "homeDesc": "Cure Disease is a web app where you can:",
+  "homeDesc": "Uhealth+ is a web app where you can:",
   "homePt1": "Locate nearest hospitals to you",
   "homePt2": "Book an appointment with a doctor",
   "homePt3": "List different diseases and their symptoms",

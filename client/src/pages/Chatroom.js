@@ -13,7 +13,7 @@ export default function Chatroom() {
         <div className="bg-tertiary w-52 h-1 my-2"></div>
       </div>
 
-      <iframe src="http://localhost:49493/" height={600} width={1500} title="chatroom"/>
+      <iframe src="http://localhost:49355" height={600} width={1500} title="chatroom"/>
 
     </div>
   )
