@@ -34,6 +34,6 @@ We are using GitHub for the following reasons:
 
 ## 🌐 Best Domain Name from GoDaddy Registry
 
-- Any domain with .co, .biz, .us, .study or .courses to be registered on GoDaddy to be able to use the domain.
+- We are using the domain curedisease.co 
 
 ## 🧠 Challenges we ran into
